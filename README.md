@@ -32,7 +32,8 @@ Language Model Integration:
 
         Utilize OpenAI's language model to answer questions based on retrieved context.
 
-    Question-Answering Pipeline:
+Question-Answering Pipeline:
+
         Create a RetrievalQA chain combining document retrieval and LLM for answering user queries.
         Example query: "What magazine rated Beyonce as the most powerful female musician in 2015?"
 
