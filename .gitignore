@@ -1,0 +1,31 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook-related
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.txt
+*.json
+*.parquet
+*.feather
+
+# Other temporary files
+*.log
+*.tmp
+*.temp
+
+# Colab-specific files
+.config/
+
+# Secrets and credentials
+*.env
+.credentials
+
+# Ignore compiled executables
+*.exe
+*.dll
+*.so
