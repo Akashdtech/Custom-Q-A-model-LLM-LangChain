@@ -41,7 +41,7 @@ Question-Answering Pipeline:
 Key Features:
 
     Retrieval-Augmented Generation (RAG) for better answer accuracy.
-    AISS-powered semantic search for efficient document retrieval.
+    FAISS-powered semantic search for efficient document retrieval.
     Custom LLM integration using LangChain.
     Scalable and modular architecture for future expansion.
 
