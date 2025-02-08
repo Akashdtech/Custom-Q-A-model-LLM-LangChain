@@ -45,4 +45,4 @@ Key Features:
     Custom LLM integration using LangChain.
     Scalable and modular architecture for future expansion.
 
-This pipeline highlights the seamless integration of retrieval-based search, vector databases, and state-of-the-art language models, making it a powerful solution for context-aware question-answering systems. 🚀
+This pipeline highlights the seamless integration of retrieval-based search, vector databases, and state-of-the-art language models, making it a powerful solution for context-aware question-answering systems.
