@@ -1,5 +1,0 @@
-langchain==0.0.240
-langchain_community==0.0.10
-faiss-cpu==1.7.4
-transformers==4.31.0
-openai==0.28.0
