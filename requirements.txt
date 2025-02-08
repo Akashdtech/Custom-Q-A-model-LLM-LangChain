@@ -1,0 +1,5 @@
+langchain==0.0.240
+langchain_community==0.0.10
+faiss-cpu==1.7.4
+requests==2.31.0
+huggingface_hub==0.16.4
